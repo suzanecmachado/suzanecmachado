@@ -1,18 +1,10 @@
-Profile README.md do Github
-## Hi there 👋
+## Hello World, I'm Suze!!🟣
+<img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="170" height="150" />
 
-<!--
-**suzanecmachado/suzanecmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Profile README.md do Github
+Estou feliz em te ver por aqui!!!
+____________________________________
+Um pouco sobre mim: 
+- Moro em Brasília/DF.
+- Sou graduada em Sistemas de Informação e pós-graduada em Gestão de Projetos.
+- Sou apaixonada por: 📷fotografia, ☕café, 🐶meu dog e 💻tecnologia.
+- Quero mudar de área profissional e atualmente tenho dedicado meus estudos a programação (Ruby, CSS, HTML) e automação de testes.  
