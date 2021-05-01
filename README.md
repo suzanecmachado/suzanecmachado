@@ -6,5 +6,13 @@ ____________________________________
 Um pouco sobre mim: 
 - Moro em Brasília/DF.
 - Sou graduada em Sistemas de Informação e pós-graduada em Gestão de Projetos.
-- Sou apaixonada por: 📷fotografia, ☕café, 🐶meu dog e 💻tecnologia.
+- Apaixonada por: 📷fotografia, ☕café, 🌎viagens, 🐶meu dog e 💻tecnologia.
 - Quero mudar de área profissional e atualmente tenho dedicado meus estudos a programação (Ruby, CSS, HTML) e automação de testes.  
+____________________________________
+
+<a target="_blank" href="https://www.linkedin.com/in/suzanemachado/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/suzymachadophotos/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
