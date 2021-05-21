@@ -7,7 +7,7 @@ Um pouco sobre mim:
 - Moro em Brasília/DF.
 - Sou graduada em Sistemas de Informação e pós-graduada em Gestão de Projetos.
 - Apaixonada por: 📷fotografia, ☕café, 🌎viagens, 🐶meu dog e 💻tecnologia.
-- Atualmente tenho dedicado meus estudos a CSS, HTML e automação de testes.  
+- Atualmente tenho dedicado meus estudos a CSS3, HTML5 e automação de testes.  
 ____________________________________
 
 <a target="_blank" href="https://www.linkedin.com/in/suzanemachado/">
